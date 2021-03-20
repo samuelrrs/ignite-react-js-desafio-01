@@ -1,5 +1,5 @@
 <p align='center'><img width='150' src="https://cdn.auth0.com/blog/react-js/react.png"></p>
-<h1 align='center'>ToDo - Ignite</h1>
+<h1 align='center'> ToDo - Ignite</h1>
 <p align='center'>
 </p>
 
